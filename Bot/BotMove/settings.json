@@ -1,0 +1,47 @@
+{
+    "bot-account":{ 
+        "username": "BotName",
+        "password": "",
+        "type": "mojang"
+    },
+
+    "server":{
+        "ip": "ip.aternos.me",
+        "port": 25565,
+        "version": "1.16.5"
+    },
+
+    "position":{
+        "enabled": false,
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+
+    "utils":{
+        "auto-auth":{
+            "enabled": true,
+            "password": "Bott5678"
+        },
+
+        "anti-afk":{
+            "enabled": true,
+            "sneak": true
+        },
+
+        "chat-messages":{
+            "enabled": true,
+            "repeat": false,
+            "repeat-delay": 30,
+
+            "messages": [
+              "Hola chicos!",
+              "Recuerden leer las reglas!",
+                "Suscribanse a JinMori"
+            ]
+        },
+
+        "chat-log": true,
+        "auto-reconnect": true
+    }
+}

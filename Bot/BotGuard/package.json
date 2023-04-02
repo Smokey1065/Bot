@@ -1,0 +1,24 @@
+{
+  "name": "newbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "minecraft-data": "^3.5.0",
+    "minecraft-protocol": "^1.35.0",
+    "mineflayer": "^2.41.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-auto-auth": "^1.0.0",
+    "mineflayer-kill-aura": "^1.0.1",
+    "mineflayer-pathfinder": "^2.2.0",
+    "mineflayer-pvp": "^1.2.1"
+  }
+}
